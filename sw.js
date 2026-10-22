@@ -1,10 +1,10 @@
 // ビルドで自動生成（src/pwa/serviceWorker.ts）。手で編集しない
-const CACHE = 'pomodoro-town-73c3bfbb75cb';
+const CACHE = 'pomodoro-town-79bec784b38f';
 const FILES = [
   "./",
   "./apple-touch-icon.png",
-  "./assets/main-CMwQn2ey.js",
-  "./assets/main-Dxr2KxIg.css",
+  "./assets/main-C9uNtmS0.css",
+  "./assets/main-DWM-bpEL.js",
   "./assets/timer-Be1UWYug.js",
   "./assets/web-BodkCoG4.js",
   "./assets/web-CKkWDziM.js",
